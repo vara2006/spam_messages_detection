@@ -10,6 +10,15 @@ This project classifies SMS messages as Spam or Ham using Deep Learning and NLP 
 - Spam prediction
 - Accuracy and loss visualization
 
+## Dataset
+
+This project uses the **Spam Or Ham: SMS Classifier** dataset from Kaggle for training and testing the spam detection model.
+  Dataset includes:
+- Spam messages
+- Ham (non-spam) messages
+
+The dataset is preprocessed using NLP techniques before training the Deep Learning model.
+
 ## Technologies Used
 - Python
 - TensorFlow
@@ -27,9 +36,6 @@ Achieved 98% accuracy on test dataset.
 - Classification Report
 - Accuracy Graph
 - Loss Graph
-
-## Dataset
-SMS Spam Collection Dataset
 
 ## How to Run
 pip install -r requirements.txt
