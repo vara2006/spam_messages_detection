@@ -39,4 +39,5 @@ Achieved 98% accuracy on test dataset.
 
 ## How to Run
 pip install -r requirements.txt
+
 python spam_detection.py
